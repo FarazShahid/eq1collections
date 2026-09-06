@@ -7,14 +7,14 @@
 - **Category:** Women
 - **Collection family:** Women T-shirts / modern modestwear
 - **Garment type:** Coordinated knee-length long T-shirt sets with trousers or tights
-- **Fabric:** Substantial 220 GSM cotton-polyester jersey
+- **Fabric:** **220 GSM Cotton-Polyester Jersey Blend**
 - **Recorded:** 2026-09-06 21:24 PKT
 - **Status:** Active design / generation specification
 - **Generation source:** `EQ1_Women_Ravaani_220_12_Designs.md`
 
 ## Collection Description
 
-**Ravaani** is a modern modestwear collection designed to help women move freely and confidently. Made with substantial **220 GSM jersey**, each comfortable, practical set provides reliable coverage without compromising contemporary style or everyday mobility.
+**Ravaani** is a modern modestwear collection designed to help women move freely and confidently. Made with substantial **220 GSM Cotton-Polyester Jersey Blend**, each comfortable, practical set provides reliable coverage without compromising contemporary style or everyday mobility.
 
 ## Product Thesis
 
@@ -25,10 +25,10 @@ The collection is deliberately minimal: differentiation comes from color pairing
 ## Fabric
 
 - Weight: **220 GSM**
-- Fabric family: **cotton-polyester T-shirt jersey**
+- Fabric: **Cotton-Polyester Jersey Blend**
 - Character: soft, substantial, smooth-draping, practical, commercially manufacturable
 - Purpose: enough body for reliable modest coverage while retaining comfort and mobility
-- Surface expectation: realistic knit texture with natural gravity and clean finishing
+- Surface expectation: realistic jersey knit texture with natural gravity and clean finishing
 
 ## Collection Size and Structure
 
