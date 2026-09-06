@@ -8,10 +8,10 @@ This file records the canonical prompt logic used to generate the **EQ1 Women �
 
 Create a ladies-only premium coordinated long-T-shirt collection for a young audience.
 
-**Ravaani** is a modern modestwear collection designed to help women move freely and confidently. Made with substantial **220 GSM jersey**, each comfortable, practical set provides reliable coverage without compromising contemporary style or everyday mobility.
+**Ravaani** is a modern modestwear collection designed to help women move freely and confidently. Made with substantial **220 GSM Cotton-Polyester Jersey Blend**, each comfortable, practical set provides reliable coverage without compromising contemporary style or everyday mobility.
 
 - Collection size: exactly 12 designs.
-- Fabric: substantial soft premium **220 GSM cotton-polyester T-shirt jersey**.
+- Fabric: substantial soft premium **220 GSM Cotton-Polyester Jersey Blend**.
 - Garment: women’s knee-length long T-shirt with coordinated trousers or tights.
 - Identity: unmistakably a modern long T-shirt — never a kurta, blouse, woven shirt, kaftan, hoodie, sweatshirt, formal dress, traditional dress, or frock.
 - Fit: female-specific relaxed fit, softly controlled shoulders, round crew neck, sleeves near the elbow, natural drape, knee-length body.
@@ -142,7 +142,7 @@ Do not use sunny parks, indoor studios, or generic plain architectural backgroun
 
 Show construction only:
 
-- 220 GSM cotton-polyester jersey knit texture
+- **220 GSM Cotton-Polyester Jersey Blend** knit texture
 - ribbed crew neck
 - shoulder seam
 - sleeve hem
@@ -165,7 +165,7 @@ Do not invent artwork or decorative details.
 
 Generate the requested image sequence for **{DESIGN NAME}** from **EQ1 Women — Ravaani 220**.
 
-Use a **{TOP COLOR} knee-length women’s long T-shirt** in substantial premium **220 GSM cotton-polyester T-shirt jersey** with **{BOTTOM COLOR + FIT}**. Preserve the specified female-specific relaxed silhouette, crew neck, elbow-near sleeves, natural drape, knee-length proportion, construction treatment, and any specified removable self-fabric belt. Place **EQ1** on the wearer’s upper-left chest at approximately **2.5 inches** wide in **Rubik 600 / SemiBold uppercase**, using the specified black or white treatment. Keep the back clean and do not add decorative artwork.
+Use a **{TOP COLOR} knee-length women’s long T-shirt** in substantial premium **220 GSM Cotton-Polyester Jersey Blend** with **{BOTTOM COLOR + FIT}**. Preserve the specified female-specific relaxed silhouette, crew neck, elbow-near sleeves, natural drape, knee-length proportion, construction treatment, and any specified removable self-fabric belt. Place **EQ1** on the wearer’s upper-left chest at approximately **2.5 inches** wide in **Rubik 600 / SemiBold uppercase**, using the specified black or white treatment. Keep the back clean and do not add decorative artwork.
 
 For model output, show two adult Pakistani female fashion models using the locked EQ1 women’s body profile, one presenting front and one back, against a rainy Lahore urban road with reflective pavement and strong cinematic background motion blur. Keep models and garments crisp and preserve apparel color accuracy.
 
