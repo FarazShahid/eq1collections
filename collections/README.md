@@ -48,6 +48,7 @@ Collections
 │       └── The Runtime
 ├── Women [Hub]
 │   └── Women Tshirts
+│       └── Ravaani 220
 └── Galleries
     ├── Collection Banners
     └── K-POP ICONS — GLOBAL SIGNAL
@@ -62,7 +63,7 @@ Examples:
 - `collections/district-m/anime/attack-on-titan/`
 - `collections/district-m/original-series/cyberpunk-edgerunners/`
 - `collections/men/t-shirts/the-runtime/`
-- `collections/women/women-tshirts/`
+- `collections/women/women-tshirts/ravaani-220/`
 - `collections/galleries/collection-banners/`
 
 ## Seasonal references
