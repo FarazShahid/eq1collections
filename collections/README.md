@@ -3,9 +3,10 @@
 Canonical collection structure for EQ1.
 
 - Recorded: 2026-09-06 17:18 PKT
+- Last updated: 2026-09-10
 - Status: Active / evolving
 - Seasonal production references are stored separately by season, e.g. `../winter-2026/`.
-- Collection folders below are scaffolds. Fabric, garment type, approved colors, prompts, revisions, production constraints, metadata, and final references will be added as each collection is developed.
+- Collection folders below are scaffolds or active records. Fabric, garment type, approved colors, prompts, revisions, production constraints, metadata, and final references are added as each collection is recovered or developed.
 
 ```text
 Collections
@@ -47,8 +48,12 @@ Collections
 │       ├── POWERLINE
 │       └── The Runtime
 ├── Women [Hub]
-│   └── Women Tshirts
-│       └── Ravaani 220
+│   ├── Women Tshirts
+│   │   └── Ravaani 220
+│   ├── Sweatshirts
+│   │   └── Rare Form
+│   └── Tracksuits
+│       └── Winter 2026 Development [WIP]
 └── Galleries
     ├── Collection Banners
     └── K-POP ICONS — GLOBAL SIGNAL
@@ -56,7 +61,7 @@ Collections
 
 ## Repository path convention
 
-Display names remain exactly as listed above. Repository folders use lowercase kebab-case for stable paths and easier tooling.
+Display names remain as approved collection names. Repository folders use lowercase kebab-case for stable paths and easier tooling.
 
 Examples:
 
@@ -64,10 +69,36 @@ Examples:
 - `collections/district-m/original-series/cyberpunk-edgerunners/`
 - `collections/men/t-shirts/the-runtime/`
 - `collections/women/women-tshirts/ravaani-220/`
+- `collections/women/sweatshirts/rare-form/`
+- `collections/women/tracksuits/`
 - `collections/galleries/collection-banners/`
+
+## Shared collection rules
+
+District M shared rules recovered from project history are maintained at:
+
+- `district-m/README.md`
+
+Collection-specific source files always take precedence over shared rules.
 
 ## Seasonal references
 
 Winter 2026 base fabric colors are recorded at:
 
-- `winter-2026/base-fabric-colors.md`
+- `../winter-2026/base-fabric-colors.md`
+
+## Templates
+
+New and reconstructed collection records should use:
+
+- `../templates/collection-record-template.md`
+
+The repository template is a new canonical structure and is not represented as a byte-identical copy of any unavailable historical attachment.
+
+## Recovered historical source archive
+
+Collection-development sources recovered from older EQ1 storage are preserved separately at:
+
+- `../archive/recovered/`
+
+This archive currently includes historical EQ1 tracksuit specifications and the first-10 men's T-shirt production packet / structured metadata. Archived source material should not silently override current collection specifications.
