@@ -16,21 +16,27 @@
 
 | Collection | Repository record | Recovery status | Known source / evidence |
 |---|---|---|---|
-| Chainsaw Man | `district-m/anime/chainsaw-man/collection-record.md` | Reconstructed + source assets corroborated | 2026-07-14 design conversation + retained generated artwork set |
+| Chainsaw Man | `district-m/anime/chainsaw-man/collection-record.md` + `recovered-chat-brief.md` | Reconstructed + source assets corroborated | 2026-07-14 design conversation + retained generated artwork set |
 | Death Note | `district-m/anime/death-note/collection-record.md` | Partial + source evidence | Historical named design and generated-artwork folders, 2026-07-02 / 2026-07-13 |
 | Demon Slayer | `district-m/anime/demon-slayer/collection-record.md` | Partial + source evidence | Historical `D5 Design 3: Demon Slayer 'ONI' + the collection`, 2026-07-02 |
-| Jujutsu Kaisen | `district-m/anime/jujutsu-kaisen/collection-record.md` | Reconstructed + source assets corroborated | Design conversation + retained Sukuna design evidence |
-| One Piece | `district-m/anime/one-piece/collection-record.md` | Reconstructed from project chat | `EQ1 MASTER PROMPT — ONE PIECE COLLECTION` content partially visible in project history |
+| Jujutsu Kaisen | `district-m/anime/jujutsu-kaisen/collection-record.md` + `recovered-chat-brief.md` | Reconstructed + source assets corroborated | Design conversation + retained Sukuna design evidence |
+| One Piece | `district-m/anime/one-piece/collection-record.md` + `recovered-master-prompt-fragment.md` | Reconstructed + exact prompt fragment | `EQ1 MASTER PROMPT — ONE PIECE COLLECTION` fragment visible in project history |
 | Arcane | `district-m/original-series/arcane/collection-record.md` | Partial + source evidence | Retained Arcane ComfyUI generated-asset set, 2026-08-20 |
-| LANDMARKS | `men/t-shirts/landmarks/collection-record.md` | Reconstructed from project chat | Known original artifact `EQ1_Mens_Landmarks_V4_Concise_3_Output.md` |
-| The Runtime | `men/t-shirts/the-runtime/collection-record.md` | Reconstructed from project chat | Known original artifact `EQ1_KING_ENERGY_THE_RUNTIME_V4_Concise_3_Output_Full_20_Designs.md` |
-| Ravaani 220 | `women/women-tshirts/ravaani-220/` | Canonical in repo | Source record `EQ1_Women_Ravaani_220_12_Designs.md`; README + canonical generation prompt present |
-| Rare Form | `women/sweatshirts/rare-form/README.md` | Reconstructed from project chat | 2026-09-06 women's sweatshirt development session |
+| KING ENERGY | `men/t-shirts/king-energy/README.md` | Partial reconstructed identity | Master-brand direction recovered from The Runtime project source |
+| LANDMARKS | `men/t-shirts/landmarks/collection-record.md` + `recovered-brief-fragment.md` | Reconstructed + exact brief fragment | Known original artifact `EQ1_Mens_Landmarks_V4_Concise_3_Output.md` |
+| The Runtime | `men/t-shirts/the-runtime/collection-record.md` + `recovered-master-prompt-fragment.md` | Reconstructed + exact prompt fragment | Known original artifact `EQ1_KING_ENERGY_THE_RUNTIME_V4_Concise_3_Output_Full_20_Designs.md` |
+| Ravaani 220 | `women/women-tshirts/ravaani-220/` | Canonical in repo + development notes | Source record `EQ1_Women_Ravaani_220_12_Designs.md`; README + generation prompt + recovered development notes present |
+| Rare Form | `women/sweatshirts/rare-form/` | Reconstructed + development notes | 2026-09-06 women's sweatshirt development session |
 | Winter 2026 Women's Tracksuits | `women/tracksuits/winter-2026-development.md` | Active WIP | Current swatch + style-reference development session; collection name/spec not yet locked |
+| Collection Banners | `galleries/collection-banners/README.md` | Reconstructed from project chat | 2026-07-23 District M / series-banner direction |
 
 ## Recovered Historical / Production Sources
 
 Historical collection-development sources that are useful to preserve but do not map cleanly to a single current named collection are stored under `../archive/recovered/`.
+
+For the full provenance inventory see:
+
+- `../archive/recovered/source-manifest.md`
 
 ### Historical EQ1 Tracksuits — June 2026
 
@@ -82,6 +88,10 @@ The archive contains original README / index text and exact `T15_Info.txt` throu
 
 No accessible source for `T11–T14` was found during this migration pass, so those styles are intentionally not inferred.
 
+## Historical District M Source Evidence
+
+`../archive/recovered/2026-07-08/district-m-source-asset-index.md` records identifiable source-asset evidence for Chainsaw Man, Death Note, Demon Slayer, Jujutsu Kaisen, and Arcane without exposing private source-storage identifiers.
+
 ## Standard / Template Artifacts
 
 Historical attachment referenced in later project sessions:
@@ -127,13 +137,13 @@ Its original attachment bytes are not exposed in the current runtime, so it has 
 
 ### Men — T-shirts
 
-- KING ENERGY — standalone source beyond its relationship to The Runtime not yet recovered.
 - POWERLINE — detailed source document not yet recovered.
+- KING ENERGY now has a partial identity record, but a standalone full collection file is still pending if one exists separately from The Runtime.
 
 ### Galleries
 
-- Collection Banners
 - K-POP ICONS — GLOBAL SIGNAL
+- Collection Banners now has recovered shared direction; any original complete banner prompt/file remains pending.
 
 ## Global Design Rules Recovered From Project History
 
