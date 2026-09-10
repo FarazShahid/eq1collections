@@ -1,0 +1,53 @@
+EQ1 PRODUCTION PACKET - T01 CORE CREW
+Editable factory development specification
+Construction Requirements
+• 1x1 rib neck
+• Shoulder-to-shoulder neck tape
+• Tonal stitching
+• Double-needle sleeve and bottom hem
+Key Features / Development Intent
+• Premium 180-200 GSM cotton jersey
+• Tailored regular fit for everyday refinement
+• Matte tone-on-tone equilibrium branding
+• Reinforced construction for long-lasting wear
+• Minimal design for maximum versatility
+Brand Rule
+All tees carry centered lowercase 'equilibrium' in Rubik 400, matte tone-on-tone. Logo contrast target: 8-12% on clean fabrics, 12-18% on washed/acid fabrics.
+T01 WEBSITE / E-COMMERCE IMAGE ASSETS
+Detail assets included separately: collar_detail, sleeve_detail, bottom_hem_detail, fabric_closeup.
+Note: These are high-quality design mockups for development and e-commerce planning. Replace with final photography after sample approval.
+Style Code
+T01
+Style Name
+Core Crew
+Category
+Essential Tee
+Season
+Year-Round
+Fit
+Tailored Regular
+Size Range
+S - 3XL
+Fabric Family
+F01 Premium Cotton Jersey
+Fabric Weight
+180-200 GSM
+Alternate Fabric
+F05 Cationic Cotton-Poly Jersey
+Country of Origin
+TBD
+Color Options
+Graphite, Navy Ink, Cloud Grey, Stone
+Branding Finish
+Matte tone-on-tone print
+Branding Placement
+Centered chest wordmark
+Artwork Font
+Rubik 400 lowercase
+Front
+
+Back
+
+Left Side
+
+Three-Quarter
