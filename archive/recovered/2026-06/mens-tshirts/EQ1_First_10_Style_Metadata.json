@@ -1,0 +1,288 @@
+[
+  {
+    "code": "T01",
+    "name": "Core Crew",
+    "fname": "minimalist_t_shirt_production_sheet.png",
+    "fit": "Tailored Regular",
+    "category": "Essential Tee",
+    "fabric": "F01 Premium Cotton Jersey",
+    "weight": "180-200 GSM",
+    "alt": "F05 Cationic Cotton-Poly Jersey",
+    "colors": [
+      "Graphite",
+      "Navy Ink",
+      "Cloud Grey",
+      "Stone"
+    ],
+    "construction": [
+      "1x1 rib neck",
+      "Shoulder-to-shoulder neck tape",
+      "Tonal stitching",
+      "Double-needle sleeve and bottom hem"
+    ],
+    "key": [
+      "Premium 180-200 GSM cotton jersey",
+      "Tailored regular fit for everyday refinement",
+      "Matte tone-on-tone equilibrium branding",
+      "Reinforced construction for long-lasting wear",
+      "Minimal design for maximum versatility"
+    ]
+  },
+  {
+    "code": "T02",
+    "name": "Relaxed Core Crew",
+    "fname": "equilibrium_production_packet_layout.png",
+    "fit": "Relaxed Regular",
+    "category": "Relaxed Essential Tee",
+    "fabric": "F01 Premium Cotton Jersey",
+    "weight": "200-220 GSM",
+    "alt": "F06 Acid Wash Cotton-Lycra",
+    "colors": [
+      "Graphite",
+      "Cloud Grey",
+      "Stone",
+      "Powder Blue"
+    ],
+    "construction": [
+      "Wider rib neck",
+      "Shoulder-to-shoulder neck tape",
+      "Tonal stitching",
+      "Double-needle sleeve and bottom hem"
+    ],
+    "key": [
+      "Relaxed premium fit with easy daily wear",
+      "Slight dropped shoulder",
+      "Wider rib neckline for comfort and style",
+      "Soft premium cotton with clean finish",
+      "Versatile staple for year-round wear"
+    ]
+  },
+  {
+    "code": "T03",
+    "name": "Supima Soft Crew",
+    "fname": "equilibrium_style_development_sheet.png",
+    "fit": "Slim-Regular",
+    "category": "Luxury Soft Tee",
+    "fabric": "F02 Supima / Pima Cotton",
+    "weight": "160-180 GSM",
+    "alt": "None",
+    "colors": [
+      "Cloud Grey",
+      "Stone",
+      "Navy Ink"
+    ],
+    "construction": [
+      "Fine rib neck",
+      "Shoulder-to-shoulder neck tape",
+      "Tonal stitching",
+      "Lightweight double-needle sleeve and bottom hem"
+    ],
+    "key": [
+      "Ultra-soft Supima/Pima cotton hand feel",
+      "Refined fine-rib neckline",
+      "Lightweight and breathable with smooth drape",
+      "Matte tone-on-tone equilibrium branding",
+      "Luxury essential for everyday comfort"
+    ]
+  },
+  {
+    "code": "T04",
+    "name": "Clean V-Neck",
+    "fname": "premium_v_neck_style_development_sheet.png",
+    "fit": "Tailored Regular",
+    "category": "Refined V-Neck Tee",
+    "fabric": "F01 Premium Cotton Jersey",
+    "weight": "180-200 GSM",
+    "alt": "F05 Cationic Cotton-Poly Jersey",
+    "colors": [
+      "Navy Ink",
+      "Graphite",
+      "Cloud Grey"
+    ],
+    "construction": [
+      "Clean shallow V-neck rib",
+      "Reinforced V point",
+      "Shoulder-to-shoulder neck tape",
+      "Tonal stitching",
+      "Double-needle sleeve and bottom hem"
+    ],
+    "key": [
+      "Elegant shallow V-neck for refined layering",
+      "Tailored regular fit",
+      "Premium 180-200 GSM cotton jersey",
+      "Clean minimal design",
+      "Year-round versatility"
+    ]
+  },
+  {
+    "code": "T05",
+    "name": "Heavyweight Box Crew",
+    "fname": "equilibrium_heavyweight_boxy_crew_tech_pack.png",
+    "fit": "Boxy Fit",
+    "category": "Structured Fashion Tee",
+    "fabric": "F03 Heavyweight Cotton Jersey",
+    "weight": "240-280 GSM",
+    "alt": "F06 Acid Wash Cotton-Lycra",
+    "colors": [
+      "Graphite",
+      "Cloud Grey",
+      "Stone"
+    ],
+    "construction": [
+      "Wide rib collar",
+      "Reinforced neckline",
+      "Clean shoulder seam",
+      "Tonal stitching",
+      "Double-needle or coverstitch sleeve and bottom hem"
+    ],
+    "key": [
+      "Heavyweight 240-280 GSM cotton jersey",
+      "Boxy fit with structured silhouette",
+      "Premium drape with substantial feel",
+      "Wide rib collar and reinforced neckline",
+      "Elevated minimal design"
+    ]
+  },
+  {
+    "code": "T06",
+    "name": "Heavy Straight Tee",
+    "fname": "minimalist_apparel_production_spec_sheet.png",
+    "fit": "Straight Regular",
+    "category": "Structured Daily Tee",
+    "fabric": "F03 Heavyweight Cotton Jersey",
+    "weight": "220-240 GSM",
+    "alt": "F05 Cationic Cotton-Poly Jersey",
+    "colors": [
+      "Navy Ink",
+      "Graphite",
+      "Stone"
+    ],
+    "construction": [
+      "Stable rib neck",
+      "Shoulder-to-shoulder neck tape",
+      "Tonal stitching",
+      "Double-needle sleeve and bottom hem"
+    ],
+    "key": [
+      "Heavyweight 220-240 GSM jersey",
+      "Strong structure with straight silhouette",
+      "Shoulder presence without oversized fit",
+      "Reliable shape retention",
+      "Refined premium daily feel"
+    ]
+  },
+  {
+    "code": "T07",
+    "name": "Split Hem Tee",
+    "fname": "equilibrium_split_hem_tee_tech_pack.png",
+    "fit": "Tailored Regular",
+    "category": "Designed Detail Tee",
+    "fabric": "F01 Premium Cotton Jersey",
+    "weight": "200-230 GSM",
+    "alt": "F06 Acid Wash Cotton-Lycra",
+    "colors": [
+      "Deep Teal",
+      "Graphite",
+      "Cloud Grey"
+    ],
+    "construction": [
+      "1x1 rib neck",
+      "Tonal stitching",
+      "Double-needle sleeve and bottom hem",
+      "Side split vents with reinforced bar tacks"
+    ],
+    "key": [
+      "Subtle side split for ease and modern detail",
+      "Tailored regular fit with slightly longer back",
+      "Refined design detail for elevated everyday wear",
+      "Premium cotton jersey with clean finish",
+      "Modern minimal aesthetic"
+    ]
+  },
+  {
+    "code": "T08",
+    "name": "Minimal Mock Neck Tee",
+    "fname": "equilibrium_minimal_mock_neck_tee_catalog.png",
+    "fit": "Straight Regular",
+    "category": "Elevated Styling Tee",
+    "fabric": "F04 Cotton-Poly Interlock",
+    "weight": "220-250 GSM",
+    "alt": "None",
+    "colors": [
+      "Stone",
+      "Navy Ink",
+      "Graphite"
+    ],
+    "construction": [
+      "Low mock neck",
+      "Clean neckline seam",
+      "Tonal stitching",
+      "Stable sleeve and bottom hem",
+      "Smooth interlock body"
+    ],
+    "key": [
+      "Low mock neckline for elevated minimal styling",
+      "Matte tone-on-tone equilibrium branding",
+      "Premium cotton-poly interlock with structure",
+      "Clean straight silhouette",
+      "Year-round versatility"
+    ]
+  },
+  {
+    "code": "T09",
+    "name": "Equilibrium Center Tee",
+    "fname": "equilibrium_product_spec_sheet.png",
+    "fit": "Tailored Regular",
+    "category": "Signature Brand Tee",
+    "fabric": "F01 Premium Cotton Jersey",
+    "weight": "180-200 GSM",
+    "alt": "F05 Cationic Cotton-Poly Jersey",
+    "colors": [
+      "Cloud Grey",
+      "Stone",
+      "Graphite"
+    ],
+    "construction": [
+      "1x1 rib neck",
+      "Shoulder-to-shoulder neck tape",
+      "Tonal stitching",
+      "Double-needle sleeve and bottom hem"
+    ],
+    "key": [
+      "Signature centered wordmark for brand clarity",
+      "Premium cotton jersey for comfort and longevity",
+      "Tailored regular fit",
+      "Minimal tone-on-tone brand philosophy",
+      "Timeless core style"
+    ]
+  },
+  {
+    "code": "T10",
+    "name": "Equilibrium Washed Tee",
+    "fname": "style_development_sheet_for_washed_tee.png",
+    "fit": "Relaxed / Boxy",
+    "category": "Washed Capsule Tee",
+    "fabric": "F06 Acid Wash Cotton-Lycra",
+    "weight": "180-230 GSM",
+    "alt": "None",
+    "colors": [
+      "Washed Graphite",
+      "Washed Stone",
+      "Washed Cloud",
+      "Washed Teal"
+    ],
+    "construction": [
+      "Washed cotton-lycra jersey body",
+      "Rib neck",
+      "Tonal stitching",
+      "Double-needle sleeve and bottom hem"
+    ],
+    "key": [
+      "Premium acid wash finish with unique marbled look",
+      "Relaxed/boxy silhouette for modern versatility",
+      "Cotton-lycra blend for softness, stretch, and recovery",
+      "Capsule-ready neutral palette",
+      "Centered equilibrium signature in matte tone-on-tone"
+    ]
+  }
+]
