@@ -17,7 +17,7 @@
 | Collection | Repository record | Recovery status | Known source / evidence |
 |---|---|---|---|
 | Chainsaw Man | `district-m/anime/chainsaw-man/collection-record.md` | Reconstructed + source assets corroborated | 2026-07-14 design conversation + retained generated artwork set |
-| Death Note | `district-m/anime/death-note/collection-record.md` | Partial + source evidence | Historical `03 - Death note` generated-artwork folder, 2026-07-13 |
+| Death Note | `district-m/anime/death-note/collection-record.md` | Partial + source evidence | Historical named design and generated-artwork folders, 2026-07-02 / 2026-07-13 |
 | Demon Slayer | `district-m/anime/demon-slayer/collection-record.md` | Partial + source evidence | Historical `D5 Design 3: Demon Slayer 'ONI' + the collection`, 2026-07-02 |
 | Jujutsu Kaisen | `district-m/anime/jujutsu-kaisen/collection-record.md` | Reconstructed + source assets corroborated | Design conversation + retained Sukuna design evidence |
 | One Piece | `district-m/anime/one-piece/collection-record.md` | Reconstructed from project chat | `EQ1 MASTER PROMPT — ONE PIECE COLLECTION` content partially visible in project history |
@@ -52,15 +52,35 @@ The specification covers:
 
 These are preserved as historical source evidence and should not automatically be treated as the current Women's Winter 2026 tracksuit collection.
 
-### Historical EQ1 Men's T-shirts — First 10 Styles
+### Historical EQ1 Men's T-shirts — T01–T10
 
 Recovered:
 
 - `../archive/recovered/2026-06/mens-tshirts/EQ1_First_10_TShirt_Master_Production_Packet.recovered.txt`
 - `../archive/recovered/2026-06/mens-tshirts/EQ1_First_10_Style_Metadata.json`
 - `../archive/recovered/2026-06/mens-tshirts/README.txt`
+- `../archive/recovered/2026-06/mens-tshirts/styles/` — individual readable production-packet extractions for T01 through T10
 
-The source covers `T01–T10`, fabric families, GSM, fits, colors, construction, and centered lowercase `equilibrium` branding. The `.recovered.txt` file is readable text extracted from the historical DOCX, not a byte-identical binary copy.
+The source covers `T01–T10`, fabric families, GSM, fits, colors, construction, and centered wordmark branding. The `.recovered.txt` files are readable text extracted from historical DOCX sources, not byte-identical binary copies.
+
+### Historical EQ1 Men's T-shirts — T15–T20
+
+Additional exact companion text files were recovered for:
+
+- T15 Travel Tee
+- T16 Air-Flow Panel Tee
+- T17 Pique Tee
+- T18 Micro Waffle Tee
+- T19 Jacquard Texture Tee
+- T20 Studio Oversized Tee
+
+They are preserved under:
+
+- `../archive/recovered/2026-06/mens-tshirts/additional-styles/`
+
+The archive contains original README / index text and exact `T15_Info.txt` through `T20_Info.txt` companion-note contents. The corresponding tech packs and product/detail images remain binary source assets and were not duplicated into the public text repository during this pass.
+
+No accessible source for `T11–T14` was found during this migration pass, so those styles are intentionally not inferred.
 
 ## Standard / Template Artifacts
 
