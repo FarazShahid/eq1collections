@@ -47,4 +47,21 @@ The direction called for **brush-stroke artwork with a high-energy feel**, follo
 - Cotton T-shirts were used for the artwork.
 - Garments should use a conventional UK-cut silhouette, not a drop-shoulder silhouette.
 
+## Recovered source-asset evidence
+
+Historical EQ1 storage contains a folder titled:
+
+`EQ1 Chainsaw Man T-Shirt Artwork - 2026-07-14`
+
+It contains multiple generated collection assets, including files identified as:
+
+- `anime_inspired_graphic_t_shirt_design_mockup.png`
+- `anime_inspired_ghost_contract_t_shirt_design.png`
+- `anime_inspired_denji_and_pochita_tee.png`
+- `anime_graphic_t_shirt_design_mockup.png`
+- `anime_graphic_t_shirt_collection_mockup.png`
+- `pull_the_cord_streetwear_mockup.png`
+
+These retained assets corroborate the project-chat design work. Their private source-storage identifiers are deliberately not copied into this public repository.
+
 This file preserves all currently recoverable collection-specific instructions from the project chat without inventing missing details.
