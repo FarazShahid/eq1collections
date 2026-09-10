@@ -1,0 +1,17 @@
+EQ1 T15–T16 PACKET INDEX
+
+T15_Travel_Tee
+- Production tech pack
+- Front image
+- Back image
+- Side profile image
+- Three-quarter image
+- Style information note
+
+T16_Air_Flow_Panel_Tee
+- Production tech pack
+- Front image
+- Back image
+- Side profile image
+- Three-quarter image
+- Style information note
