@@ -2,7 +2,7 @@
 
 - Source: EQ1 project chat history
 - Original design session: 2026-07-17
-- Recovery status: Reconstructed from surviving chat context
+- Recovery status: Reconstructed from surviving chat context + exact prompt fragment preserved
 - Master brand: KING ENERGY
 - Collection name: THE RUNTIME
 - Product: Premium men’s T-shirts / streetwear
@@ -33,8 +33,12 @@ A later EQ1 project conversation identified the standard/output file as:
 
 `EQ1_KING_ENERGY_THE_RUNTIME_V4_Concise_3_Output_Full_20_Designs.md`
 
-The exact original attachment bytes are not available in the current chat runtime. This record preserves all recoverable design direction without inventing missing sections.
+An exact fragment of the historical master prompt visible in project history is now preserved at:
+
+- `recovered-master-prompt-fragment.md`
+
+The full original attachment bytes are still not exposed in the current runtime. This record preserves all recoverable design direction without inventing missing sections.
 
 ## Repository rule
 
-When the original MD is surfaced again, store it in this folder unchanged as the canonical source and retain this file as the recovery/audit record.
+When the original MD is surfaced again, store it in this folder unchanged as the canonical source and retain this file and the recovered fragment as recovery/audit records.
