@@ -2,7 +2,7 @@
 
 - Source: EQ1 project chat history
 - Original design session: 2026-07-14
-- Recovery status: Reconstructed from surviving chat context
+- Recovery status: Reconstructed from surviving chat context + exact prompt fragment preserved
 - Category: District M → Anime
 - Product: Premium streetwear T-shirts
 - Print method: DTF
@@ -61,4 +61,10 @@ The original chat explicitly titled the working prompt:
 
 `EQ1 MASTER PROMPT — ONE PIECE COLLECTION`
 
-This file captures the recoverable master specifications from that session. The exact complete original prompt is not available in the current chat runtime, so missing sections have not been invented.
+An exact fragment visible in project history is preserved at:
+
+- `recovered-master-prompt-fragment.md`
+
+The fragment ends where the current project runtime stops exposing the historical prompt. It is intentionally not presented as the complete original source.
+
+This collection record summarizes the recoverable master specifications without inventing missing sections.
