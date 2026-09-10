@@ -1,0 +1,107 @@
+EQ1 MEN'S T-SHIRT PRODUCTION PACKET
+First 10 styles | Production documents + website mockup assets
+Packet Structure
+• 00_MASTER: master line sheets, fabric references, style metadata, and overview documents.
+• Each T##_Style folder: production DOCX/PDF, website angle images, detail closeups, and source production sheet.
+• All website images are organized as front, back, left side, and three-quarter views.
+• All detail assets are organized as collar, sleeve, hem, and fabric closeups.
+Style Index
+EQ1 MASTER LINE SHEET
+Fabric Families
+Branding Rule
+All tees carry centered lowercase 'equilibrium' in Rubik 400, matte tone-on-tone. Logo contrast target: 8-12% on clean fabrics, 12-18% on washed/acid fabrics.
+Centered wordmark artwork target: width 90-120 mm on size M; letter height 8-11 mm; center placement approximately 190-210 mm down from high shoulder point.
+Code
+Style
+Fit
+Fabric
+Weight
+Colors
+T01
+Core Crew
+Tailored Regular
+F01 Premium Cotton Jersey
+180-200 GSM
+Graphite, Navy Ink, Cloud Grey, Stone
+T02
+Relaxed Core Crew
+Relaxed Regular
+F01 Premium Cotton Jersey
+200-220 GSM
+Graphite, Cloud Grey, Stone, Powder Blue
+T03
+Supima Soft Crew
+Slim-Regular
+F02 Supima / Pima Cotton
+160-180 GSM
+Cloud Grey, Stone, Navy Ink
+T04
+Clean V-Neck
+Tailored Regular
+F01 Premium Cotton Jersey
+180-200 GSM
+Navy Ink, Graphite, Cloud Grey
+T05
+Heavyweight Box Crew
+Boxy Fit
+F03 Heavyweight Cotton Jersey
+240-280 GSM
+Graphite, Cloud Grey, Stone
+T06
+Heavy Straight Tee
+Straight Regular
+F03 Heavyweight Cotton Jersey
+220-240 GSM
+Navy Ink, Graphite, Stone
+T07
+Split Hem Tee
+Tailored Regular
+F01 Premium Cotton Jersey
+200-230 GSM
+Deep Teal, Graphite, Cloud Grey
+T08
+Minimal Mock Neck Tee
+Straight Regular
+F04 Cotton-Poly Interlock
+220-250 GSM
+Stone, Navy Ink, Graphite
+T09
+Equilibrium Center Tee
+Tailored Regular
+F01 Premium Cotton Jersey
+180-200 GSM
+Cloud Grey, Stone, Graphite
+T10
+Equilibrium Washed Tee
+Relaxed / Boxy
+F06 Acid Wash Cotton-Lycra
+180-230 GSM
+Washed Graphite, Washed Stone, Washed Cloud, Washed Teal
+Code
+Fabric
+Weight
+Role
+F01
+Premium Cotton Jersey
+180-220 GSM
+Clean daily luxury base fabric
+F02
+Supima / Pima Cotton
+160-180 GSM
+Ultra-soft luxury cotton
+F03
+Heavyweight Cotton Jersey
+220-280 GSM
+Structured premium/fashion silhouettes
+F04
+Cotton-Poly Interlock
+200-250 GSM
+Stable elevated interlock with recovery
+F05
+Cationic Cotton-Poly Jersey
+170-220 GSM
+Technical everyday heather/cationic effect
+F06
+Acid Wash Cotton-Lycra
+180-230 GSM
+Washed capsule fabric with stretch/recovery
