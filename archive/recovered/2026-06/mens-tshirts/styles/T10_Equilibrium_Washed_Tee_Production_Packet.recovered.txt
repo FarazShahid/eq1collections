@@ -1,0 +1,53 @@
+EQ1 PRODUCTION PACKET - T10 EQUILIBRIUM WASHED TEE
+Editable factory development specification
+Construction Requirements
+• Washed cotton-lycra jersey body
+• Rib neck
+• Tonal stitching
+• Double-needle sleeve and bottom hem
+Key Features / Development Intent
+• Premium acid wash finish with unique marbled look
+• Relaxed/boxy silhouette for modern versatility
+• Cotton-lycra blend for softness, stretch, and recovery
+• Capsule-ready neutral palette
+• Centered equilibrium signature in matte tone-on-tone
+Brand Rule
+All tees carry centered lowercase 'equilibrium' in Rubik 400, matte tone-on-tone. Logo contrast target: 8-12% on clean fabrics, 12-18% on washed/acid fabrics.
+T10 WEBSITE / E-COMMERCE IMAGE ASSETS
+Detail assets included separately: collar_detail, sleeve_detail, bottom_hem_detail, fabric_closeup.
+Note: These are high-quality design mockups for development and e-commerce planning. Replace with final photography after sample approval.
+Style Code
+T10
+Style Name
+Equilibrium Washed Tee
+Category
+Washed Capsule Tee
+Season
+Capsule Drop
+Fit
+Relaxed / Boxy
+Size Range
+S - 3XL
+Fabric Family
+F06 Acid Wash Cotton-Lycra
+Fabric Weight
+180-230 GSM
+Alternate Fabric
+None
+Country of Origin
+TBD
+Color Options
+Washed Graphite, Washed Stone, Washed Cloud, Washed Teal
+Branding Finish
+Matte tone-on-tone print
+Branding Placement
+Centered chest wordmark
+Artwork Font
+Rubik 400 lowercase
+Front
+
+Back
+
+Left Side
+
+Three-Quarter
