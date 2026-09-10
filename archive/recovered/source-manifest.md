@@ -10,6 +10,7 @@
 - **Exact structured source** — structured data copied from an original source file.
 - **Readable extraction** — text recovered from a binary document; not byte-identical to the original binary.
 - **Exact project-chat fragment** — exact portion of a historical prompt visible in project history; source was longer.
+- **Recovered project-development notes** — explicit decisions preserved from visible project conversation history.
 - **Reconstructed record** — collection specification rebuilt only from explicit historical decisions and labeled accordingly.
 - **Source-evidence record** — proves historical collection work existed but is not a full collection specification.
 
@@ -18,20 +19,26 @@
 | Collection / system | Repository path | Provenance |
 |---|---|---|
 | District M shared rules | `collections/district-m/README.md` | Reconstructed record |
+| Collection Banners | `collections/galleries/collection-banners/README.md` | Reconstructed record from project direction |
 | Chainsaw Man | `collections/district-m/anime/chainsaw-man/collection-record.md` | Reconstructed + source evidence |
+| Chainsaw Man development notes | `collections/district-m/anime/chainsaw-man/recovered-chat-brief.md` | Recovered project-development notes |
 | Death Note | `collections/district-m/anime/death-note/collection-record.md` | Source-evidence record |
 | Demon Slayer | `collections/district-m/anime/demon-slayer/collection-record.md` | Source-evidence record |
 | Jujutsu Kaisen | `collections/district-m/anime/jujutsu-kaisen/collection-record.md` | Reconstructed + source evidence |
+| Jujutsu Kaisen development notes | `collections/district-m/anime/jujutsu-kaisen/recovered-chat-brief.md` | Recovered project-development notes |
 | One Piece | `collections/district-m/anime/one-piece/collection-record.md` | Reconstructed record |
 | One Piece master prompt fragment | `collections/district-m/anime/one-piece/recovered-master-prompt-fragment.md` | Exact project-chat fragment |
 | Arcane | `collections/district-m/original-series/arcane/collection-record.md` | Source-evidence record |
 | KING ENERGY | `collections/men/t-shirts/king-energy/README.md` | Reconstructed partial identity |
 | LANDMARKS | `collections/men/t-shirts/landmarks/collection-record.md` | Reconstructed record |
+| LANDMARKS brief fragment | `collections/men/t-shirts/landmarks/recovered-brief-fragment.md` | Exact project-chat fragment |
 | The Runtime | `collections/men/t-shirts/the-runtime/collection-record.md` | Reconstructed record |
 | The Runtime master prompt fragment | `collections/men/t-shirts/the-runtime/recovered-master-prompt-fragment.md` | Exact project-chat fragment |
 | Ravaani 220 | `collections/women/women-tshirts/ravaani-220/README.md` | Canonical repo record |
 | Ravaani 220 generation prompt | `collections/women/women-tshirts/ravaani-220/generation-prompt.md` | Canonical repo prompt |
+| Ravaani 220 development notes | `collections/women/women-tshirts/ravaani-220/recovered-development-notes.md` | Recovered project-development notes |
 | Rare Form | `collections/women/sweatshirts/rare-form/README.md` | Reconstructed record |
+| Rare Form development notes | `collections/women/sweatshirts/rare-form/recovered-development-notes.md` | Recovered project-development notes |
 | Winter 2026 women's tracksuits | `collections/women/tracksuits/winter-2026-development.md` | Active WIP record |
 | Winter 2026 fabric colors | `winter-2026/base-fabric-colors.md` | Canonical physical-swatch reference record |
 
