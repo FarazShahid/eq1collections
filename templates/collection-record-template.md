@@ -1,6 +1,8 @@
 # EQ1 Collection Record Template
 
-> Repository-native template created 2026-09-10. This is **not** a byte-for-byte reconstruction of the historical `eq1-studio-collection-creator-template.v1 (1).md` attachment. Use it as the canonical structure for new and recovered collection records in this repository.
+> Repository-native metadata/provenance template created 2026-09-10.
+>
+> The exact historical Collection Studio generation template was subsequently recovered on 2026-09-13 and is stored unchanged at [`eq1-studio-collection-creator-template.v1 (1).md`](eq1-studio-collection-creator-template.v1%20(1).md). Use that recovered file for the canonical EQ1 **V4 Design Bible / one-or-three-image generation format**. Use this file for repository archival metadata, production history, provenance, approvals, and source tracking.
 
 ## 1. Record Metadata
 
