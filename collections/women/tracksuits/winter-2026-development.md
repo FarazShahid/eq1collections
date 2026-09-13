@@ -6,69 +6,41 @@
 - **Category:** Women → Tracksuits
 - **Season:** Winter 2026
 - **Recorded:** 2026-09-10
-- **Status:** Work in progress
-- **Collection name:** Not yet locked
+- **Last updated:** 2026-09-13
+- **Status:** Historical WIP / development provenance
+- **Original WIP collection name:** Not yet locked at the time this record was created
+- **Named collection source now recovered:** **MOVE DIFFERENTLY**
+- **Named collection record:** [`move-differently/README.md`](move-differently/README.md)
 - **Product type:** Women's tracksuits
 - **Source:** EQ1 project design session with physical swatches and style-reference media
 
 ## Current Source Material
 
-The active development session includes:
+The development session included physical fabric swatch images, a physical-swatch video, women's tracksuit cut/style references, and the Winter 2026 base fabric color record.
 
-- physical fabric swatch images
-- a physical-swatch video
-- women's tracksuit cut / style references
-- Winter 2026 base fabric color record
+Canonical physical color references are maintained at [`winter-2026/base-fabric-colors.md`](../../../winter-2026/base-fabric-colors.md).
 
-Canonical physical color references are maintained at:
+## Earlier Color Availability Record
 
-[`winter-2026/base-fabric-colors.md`](../../../winter-2026/base-fabric-colors.md)
+The earlier Winter 2026 base record contains Blush Lilac, Dusty Mauve, Olive Charcoal, Lavender Mist, Graphite Grey, Pastel Lime, Midnight Navy, Dusty Taupe, Black, Royal Blue, Deep Teal, and Golden Yellow. Additional sweatshirt-reference colors are recorded separately and should not automatically be assumed for tracksuits.
 
-## Current Color Availability
+## 2026-09-13 Recovery Update
 
-The Winter 2026 base record currently contains the following physical-reference color names:
+The original collection-generation file `EQ1_Womens_Tracksuit_Move_Differently_20_Designs.md` was supplied and resolves many fields that were intentionally left open in this WIP record.
 
-1. Blush Lilac
-2. Dusty Mauve
-3. Olive Charcoal
-4. Lavender Mist
-5. Graphite Grey
-6. Pastel Lime
-7. Midnight Navy
-8. Dusty Taupe
-9. Black
-10. Royal Blue
-11. Deep Teal
-12. Golden Yellow
+The recovered named collection defines the collection name **MOVE DIFFERENTLY**, 20 designs, quarter-zip/full-zip/long-sleeve crewneck/short-sleeve crewneck top families, straight or lightly tapered trousers, EQ1 placement on left chest and front-right upper trouser leg, per-design color blocking/rail/piping systems, recorded swatch references and GSM/fabric types where known, and the three-output image system with model/campaign direction.
 
-Additional sweatshirt-reference colors are recorded separately in that seasonal file and should not automatically be assumed for this tracksuit collection.
+See [`move-differently/README.md`](move-differently/README.md) for the recovered named collection record.
 
-## Fields Not Yet Locked
+This WIP file remains as provenance showing the state before the full collection source was recovered. It must not override the named collection source.
 
-Do not infer these from reference imagery until explicitly approved:
+## Remaining Production Approval Boundaries
 
-- final collection name
-- exact fabric composition
-- GSM
-- knit / weave / finish
-- approved tracksuit color subset
-- contrast-color combinations
-- jacket / sweatshirt / top construction
-- collar / hood / zip direction
-- trouser construction and fit
-- logo placement and technique
-- embroidery / print / trim rules
-- model direction
-- image-generation master prompt
-- design matrix / collection size
-- production measurements
-
-## Repository Workflow
-
-As decisions are approved, update this record or create a named collection directory using [`templates/collection-record-template.md`](../../../templates/collection-record-template.md). Preserve prompt revisions and physical swatch mappings rather than replacing historical decisions without a revision note.
+Physical production approval is still required where the source itself marks a reference color/fabric as provisional or unlabeled, especially `REF-CREAM`, `REF-BLACK`, and unlabeled swatches. Do not infer supplier composition, production tolerances, shrinkage, stretch/recovery, dye formula, or grading where the source does not specify them.
 
 ## Revision History
 
 | Date | Change |
 |---|---|
 | 2026-09-10 | Women's tracksuit development record created from active project session; physical Winter 2026 palette linked. |
+| 2026-09-13 | MOVE DIFFERENTLY 20-design source surfaced; WIP linked to recovered named collection and retained as development provenance. |
