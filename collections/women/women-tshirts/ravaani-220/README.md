@@ -10,7 +10,14 @@
 - **Fabric:** **220 GSM Cotton-Polyester Jersey Blend**
 - **Recorded:** 2026-09-06 21:24 PKT
 - **Status:** Active design / generation specification
-- **Generation source:** `EQ1_Women_Ravaani_220_12_Designs.md`
+- **Original generation source:** `EQ1_Women_Ravaani_220_12_Designs.md`
+- **Recovery status:** Original source supplied on 2026-09-13; existing README and `generation-prompt.md` remain the repository-friendly canonical working records
+
+### Original source fingerprint
+
+- **Bytes:** 76,390
+- **SHA-256:** `dc681a4c06abb7d39a0f1eecc810aaae59ac933df4274b4b71230b0de7a1acaf`
+- **Git blob SHA-1 for exact-file verification:** `1100b8149f6e9a054b7b9505090d27ce320717a7`
 
 ## Collection Description
 
@@ -129,8 +136,16 @@ Model imagery should use a Lahore-inspired urban road after rain: reflective pav
 
 ## Generation Prompt
 
-The full design bible and per-design prompts are stored in `generation-prompt.md` in this directory.
+The compact canonical working prompt is stored in `generation-prompt.md` in this directory. The recovered original source contains the full per-design V4 Design Bible structure for all 12 products and should be used to validate any future prompt expansion.
 
 ## Seasonal / Physical References
 
 Physical fabric-color availability and camera-derived color references are maintained separately under the relevant seasonal production records (currently `winter-2026/`). Generated colors are not a substitute for physical fabric approval.
+
+## Revision History
+
+| Date | Change |
+|---|---|
+| 2026-09-06 | Ravaani 220 12-design structure recorded. |
+| 2026-09-10 | Repository working record and compact canonical prompt created. |
+| 2026-09-13 | Original `EQ1_Women_Ravaani_220_12_Designs.md` supplied; source fingerprint and recovery status recorded. |
