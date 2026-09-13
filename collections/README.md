@@ -3,10 +3,10 @@
 Canonical collection structure for EQ1.
 
 - Recorded: 2026-09-06 17:18 PKT
-- Last updated: 2026-09-10
+- Last updated: 2026-09-13
 - Status: Active / evolving
 - Seasonal production references are stored separately by season, e.g. `../winter-2026/`.
-- Collection folders below are scaffolds or active records. Fabric, garment type, approved colors, prompts, revisions, production constraints, metadata, and final references are added as each collection is recovered or developed.
+- Collection folders below are scaffolds, active records, or preserved development branches. Collection-specific source files take precedence over generic hub rules.
 
 ```text
 Collections
@@ -48,12 +48,15 @@ Collections
 │       ├── POWERLINE
 │       └── The Runtime
 ├── Women [Hub]
-│   ├── Women Tshirts
-│   │   └── Ravaani 220
+│   ├── Women T-shirts / Long T-shirts
+│   │   ├── Ravaani 220
+│   │   └── The Line
 │   ├── Sweatshirts
-│   │   └── Rare Form
+│   │   ├── Rare Form
+│   │   └── Winter Bloom 280 [versioned development record]
 │   └── Tracksuits
-│       └── Winter 2026 Development [WIP]
+│       ├── MOVE DIFFERENTLY
+│       └── Winter 2026 Development [historical WIP]
 └── Galleries
     ├── Collection Banners
     └── K-POP ICONS — GLOBAL SIGNAL
@@ -69,36 +72,33 @@ Examples:
 - `collections/district-m/original-series/cyberpunk-edgerunners/`
 - `collections/men/t-shirts/the-runtime/`
 - `collections/women/women-tshirts/ravaani-220/`
+- `collections/women/women-tshirts/the-line/`
 - `collections/women/sweatshirts/rare-form/`
-- `collections/women/tracksuits/`
+- `collections/women/sweatshirts/winter-bloom/`
+- `collections/women/tracksuits/move-differently/`
 - `collections/galleries/collection-banners/`
+
+## Source-history rule
+
+When multiple source files exist for one collection, preserve version history rather than silently merging conflicts. This is especially important for **Winter Bloom 280**, whose supplied V3 and V4 files define different fabrics and product systems.
 
 ## Shared collection rules
 
-District M shared rules recovered from project history are maintained at:
-
-- `district-m/README.md`
-
-Collection-specific source files always take precedence over shared rules.
+District M shared rules recovered from project history are maintained at `district-m/README.md`. Collection-specific source files always take precedence over shared rules.
 
 ## Seasonal references
 
-Winter 2026 base fabric colors are recorded at:
-
-- `../winter-2026/base-fabric-colors.md`
+Winter 2026 base fabric colors are recorded at `../winter-2026/base-fabric-colors.md`.
 
 ## Templates
 
-New and reconstructed collection records should use:
+Two templates now serve different purposes:
 
-- `../templates/collection-record-template.md`
+- `../templates/eq1-studio-collection-creator-template.v1 (1).md` — **exact recovered Collection Studio generation template**.
+- `../templates/collection-record-template.md` — repository-native metadata / provenance record template created during recovery.
 
-The repository template is a new canonical structure and is not represented as a byte-identical copy of any unavailable historical attachment.
+The recovered Studio template controls the standard one-or-three image generation structure. The repository-native template is useful for archival metadata and production history; it should not be misrepresented as the original Studio template.
 
 ## Recovered historical source archive
 
-Collection-development sources recovered from older EQ1 storage are preserved separately at:
-
-- `../archive/recovered/`
-
-This archive currently includes historical EQ1 tracksuit specifications and the first-10 men's T-shirt production packet / structured metadata. Archived source material should not silently override current collection specifications.
+Collection-development sources recovered from older EQ1 storage are preserved separately at `../archive/recovered/`. Archived material is evidence and reference and should not silently override later approved collection-specific files.
